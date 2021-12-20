@@ -1,0 +1,5 @@
+git status (para ver que archivo en los que tengo cambios)
+git add . (para agregar todos los archivos)
+git add Nombre del archivo (para agregar solo archivo especifico)
+git commit -m "Descripcion cambios"(hacer un commit de los cambios que realice con su comentario)
+git push origin branch (realizar un push a la rama/branch)
